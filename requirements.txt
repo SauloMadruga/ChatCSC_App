@@ -1,0 +1,7 @@
+streamlit
+streamlit_chat
+pandasai
+python-dotenv
+tabulate
+langchain
+
