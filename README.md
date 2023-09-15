@@ -90,4 +90,3 @@ Com todas as bibliotecas instaladas, basta executar o serviço do Streamlit atra
 ```
 streamlit run App.py
 ```
-
