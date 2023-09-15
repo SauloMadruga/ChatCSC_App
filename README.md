@@ -1,33 +1,8 @@
+![logo](https://github.com/SauloMadruga/ChatCSV_App/assets/41789667/03498a6c-ddb0-40e3-8510-453ecf3fd312)
+
+# FIAP - Faculdade de Informática e Administração Paulista
+
 # **HUMAN BASED DATA - TRABALHO FINAL**
-
-  
-
-**Professor:** NILTON KAZUYUKI UEDA
-
-  
-
-**Turma:** 3DTS
-
-  
-
-**Alunos:**
-
-  
-
-346488 - SAULO NOBRE MADRUGA
-
-  
-
-346989 - MARCUS VINÍCIUS PIRES OLIVEIRA
-
-  
-
-346923 - CLARA SOUZA DE OLIVEIRA
-
-  
-
-**Data da entrega:** 15/09/2023
-
 
 # Enunciado
 
