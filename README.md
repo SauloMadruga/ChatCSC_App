@@ -56,6 +56,10 @@ Para utilizar a ***API ChatGPT***, é necessário primeiro obter uma chave de ac
 
 Gere a sua ***API Key da OpenAI*** aqui: <a  href="https://platform.openai.com/account/api-keys"> Clique aqui </a>
 
+# Dataset utilizado para teste
+***Amazon Products Sales Dataset 2023*** disponível no site do Kaggle no link: <a  href="[https://python.langchain.com/docs/integrations/llms/openai](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset)"> Clique aqui </a>
+
+
 <br>
 <h2> Como rodar a aplicação? </h2>
 
