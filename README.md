@@ -54,7 +54,7 @@ Com o objetivo de tornar a utilização dos recursos dos modelos LLMs de forma a
 
 Para utilizar a ***API ChatGPT***, é necessário primeiro obter uma chave de acesso (***API key***) que permita o acesso aos recursos da API. Essa chave pode ser obtida através do site oficial da OpenAI.
 
-Gere a sua ***API Key da OpenAI*** aqui: <a  href="https://platform.openai.com/account/api-keys"> Click Here </a>
+Gere a sua ***API Key da OpenAI*** aqui: <a  href="https://platform.openai.com/account/api-keys"> Clique aqui </a>
 
 <br>
 <h2> Como rodar a aplicação? </h2>
